@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My Name is **Rosyiidah Hasnaa**  
+
+- 🔭 I’m currently study on Politeknik Elektronika Negeri Surabaya with the major Informatics Engineering    
+- 🌱 I’m currently learning about machine learning and frontend developer  
+
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/syiidahasnaa/) account.
 <!--
 **syiidahasnaa30/syiidahasnaa30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
