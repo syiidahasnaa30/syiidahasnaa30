@@ -7,6 +7,7 @@ My Name is **Rosyiidah Hasnaa**, I'm currently live in Surabaya, Indonesia. I'm 
 - 📫 Reach me on :
   - ✉ syiidahasnaa30@gmail.com
   - [Linkedin](https://www.linkedin.com/in/syiidahasnaa/)
+  - [My Personal website portofolio ](https://syiidahasnaa.netlify.app/)
 
 ### Tech Stack
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
