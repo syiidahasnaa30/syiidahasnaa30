@@ -3,7 +3,7 @@
 My Name is **Rosyiidah Hasnaa**, I'm currently live in Surabaya, Indonesia. I'm a Final Year Student of Informatics Engineering at Politeknik Elektronika Negeri Surabaya. I have experience building a website using html, css, bootstrap, javascript and react js and making a responsive website. I enjoy learning about front-end developers in my free time. An eager and conscientious person who works well in team environments.   
 
 - 🎓 Studying Informatics Engineering at Politeknik Elektronika Negeri Surabaya  
-- 🌱 I’m currently learning about machine learning and frontend developer  
+- 🌱 I’m currently learning about react js  
 - 📫 Reach me on :
   - ✉ syiidahasnaa30@gmail.com
   - [Linkedin](https://www.linkedin.com/in/syiidahasnaa/)
